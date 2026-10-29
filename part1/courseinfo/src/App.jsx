@@ -12,7 +12,7 @@ const Content = ({ parts }) => (
       <Part key={part.name} name={part.name} exercises={part.exercises} />
     ))}
   </div>
-)
+  )
 
 const Total = ({ parts }) => {
   const total = parts.reduce((sum, part) => sum + part.exercises, 0)
