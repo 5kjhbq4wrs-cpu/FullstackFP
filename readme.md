@@ -1,13 +1,10 @@
-[fu](https://fullstackopen.com/en/)
-sfsfdxaSD
-DASDD;CV
-zxCX
-V
-CX
-VDS
-SD
+# Fullstack Open
 
-FWER
-F
-WE
-WE
+part0/
+part1/
+  courseinfo/
+  unicafe/
+  anecdotes/
+part2/
+  phonebook/
+  countries
